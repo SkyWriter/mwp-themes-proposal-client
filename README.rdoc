@@ -1,0 +1,3 @@
+= MWP themes proposal client
+
+This project rocks and uses MIT-LICENSE.
